@@ -1,0 +1,26 @@
+#######################################
+# Syntax Coloring Map For IRTag
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+IRTagDecod_t	KEYWORD1
+IRTagSend	KEYWORD1
+IRTagRecv	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+enableIROut	KEYWORD2
+enableIRIn	KEYWORD2
+sendTAG	KEYWORD2
+decodeTAG KEYWORD2
+
+#
+#######################################
+# Constants (LITERAL1)
+#######################################
+
